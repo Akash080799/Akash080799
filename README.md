@@ -1,13 +1,13 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_423_752/0/1583217310942?e=1692835200&v=beta&t=0v5QooRGhp14z0WRy2Ckj0ji8SP84XInIUpuyQr70VI)
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Data Enthusiast and a passionate engineer</h3>
-<h4 align="center">currently working as a Developer in Cognizant Technology solutions</h4>
+<h3 align="center">AI/ ML Enthusiast and a passionate software engineer</h3>
+<h4 align="center">Senior system architect | Ex - Associate @ Cognizant technology solutions</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash080799&label=Profile%20views&color=0e75b6&style=flat" alt="akash080799" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📫 How to reach me **akashsivakumar968@gmail.com**
+- 📫 How to reach me **aksh.svkmr@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
